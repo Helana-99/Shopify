@@ -1,0 +1,13 @@
+.product-details .carousel-item img {
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.product-details .rating {
+  display: flex;
+  align-items: center;
+}
+
+.product-details .rating i {
+  margin-right: 5px;
+}

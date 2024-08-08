@@ -1,0 +1,19 @@
+.total {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 1.5rem;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  
+  .table img {
+    margin-right: 10px;
+  }
+  
+  .input-group-text {
+    width: 50px;
+    text-align: center;
+  }
+  

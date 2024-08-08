@@ -1,0 +1,22 @@
+/* themecontext.css */
+:root {
+    --background-color-light: #fff;
+    --background-color-dark: #121212;
+    --text-color-light: #000;
+    --text-color-dark: #fff;
+    --navbar-bg-light: #ffffff;
+    --navbar-bg-dark: #1c1d1d;
+    --navbar-text-light: #0f0f0f;
+    --navbar-text-dark: #ffffff;
+  }
+  
+  body.light-theme {
+    background-color: var(--background-color-light);
+    color: var(--text-color-light);
+  }
+  
+  body.dark-theme {
+    background-color: var(--background-color-dark);
+    color: var(--text-color-dark);
+  }
+  

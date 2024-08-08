@@ -1,0 +1,29 @@
+/* RegisterForm.css */
+.container {
+  max-width: 600px;
+ 
+}
+
+.form{
+  padding: 2rem;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.text-danger {
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+}
+
+button.btn-primary {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+
+

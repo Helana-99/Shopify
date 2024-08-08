@@ -1,0 +1,41 @@
+.navbar-icon {
+    height: 30px; /* Adjust size as needed */
+    margin-right: 8px; /* Adjust spacing as needed */
+  }
+
+.navbar {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar.light-theme {
+  background-color: var(--navbar-bg-light);
+  color: var(--navbar-text-light);
+}
+
+.navbar.dark-theme {
+  background-color: var(--navbar-bg-dark);
+  color: var(--navbar-text-dark);
+}
+
+.nav-link {
+  color: inherit;
+}
+
+.nav-link:hover {
+  color: inherit;
+}
+
+.navbar-icon {
+  margin-right: 0.5rem;
+}
+
+.btn.nav-link {
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.btn.nav-link:hover {
+  color: inherit;
+}
